@@ -2,6 +2,7 @@ Quora Question Pairs - Semantic Similarity Detection
 This project focuses on detecting whether two given questions are semantically equivalent. The dataset used is from the Quora Question Pairs Kaggle competition. The aim is to build an NLP model that can identify duplicate questions based on their semantic meaning rather than just surface-level text similarity.
 
 📌 Problem Statement
+
 Many users on Quora tend to ask questions that are semantically similar but phrased differently. The objective of this project is to predict whether a pair of questions are duplicates or not.
 
 For example:
